@@ -3,6 +3,6 @@ public class DemoClass {
         int x=1;
         int y=2;
         System.out.println((x+y));
-        System.out.println("Versiyon 1 icin islemler tamamlandi");
+        System.out.println("Versiyon 1 icin islemler tamamlandi..");
     }
 }
